@@ -1,4 +1,4 @@
-# <div align=center>사용자별 맞춤 카드 추천을 위한 AI Chatbot Service</div>
+# <div align=center>AI Chatbot 이용한 사용자 맞춤 카드 추천 Service</div>
 
 ![화면 캡처 2025-03-16 185140](https://github.com/user-attachments/assets/0d7e6593-16c1-45a4-8373-d5cf433c0d1a)
 

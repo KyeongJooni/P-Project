@@ -50,7 +50,7 @@ Cardfit은 재무관리 또는 실사용을 위해 카드를 발급하는 소비
 - 백엔드: Node/express
 - DB: Mysql
 - IDE: VSC, git
-- API: chatGPT4
+- API: REST API, ChatGPT4
 - AI: GPT 4o
 <br>
 

@@ -1,5 +1,5 @@
 <div align="center">
-<h1>AI Chatbot 이용한 사용자 맞춤 카드 추천 Service</h1>
+<h1>AI Chatbot을 이용한 사용자 맞춤 카드 추천 Service</h1>
 재무관리 또는 실사용을 위해 카드를 발급하는 소비자들에게 ChatGPT AI Chatbot을 이용한 맞춤형 카드를 추천해주는 서비스
 </div>
 

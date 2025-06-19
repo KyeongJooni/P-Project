@@ -45,13 +45,13 @@ Cardfit은 재무관리 또는 실사용을 위해 카드를 발급하는 소비
 <br>
 
 - 개발 환경<br>
-- 언어: JS, SQL, HTML
-- 프론트엔드: ejs, Figma
-- 백엔드: Node/express
-- DB: Mysql
-- IDE: VSC, git
-- API: REST API, ChatGPT4
-- AI: GPT 4o
+  - 언어: JS, SQL, HTML
+  - 프론트엔드: ejs, Figma
+  - 백엔드: Node/express
+  - DB: Mysql
+  - IDE: VSC, git
+  - API: REST API, ChatGPT4
+  - AI: GPT 4o
 <br>
 
 |메인 페이지 배너|메인 페이지|20대 추천 페이지|정부 지원 페이지|

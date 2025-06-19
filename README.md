@@ -60,4 +60,4 @@ Cardfit은 재무관리 또는 실사용을 위해 카드를 발급하는 소비
 
 |퍼스널 맞춤 카드 페이지|이달의 이벤트 페이지|AI Chatbot 무한이|메인 전체화면|
 |---|---|---|---|
-|<img src="https://github.com/user-attachments/assets/bd7faae8-2146-4c53-9f6f-2bf8a64b6bf7" width="1200" />|<img src="https://github.com/user-attachments/assets/e8b22f98-8080-4857-a320-ace732bd9576" width="1200" />|<img src="https://github.com/user-attachments/assets/ec7dde5e-0581-420b-8906-7d83b2da7f22" width="950"/>|<img src="https://github.com/user-attachments/assets/8513b990-1e0e-4d05-aa81-bd3869567d81" width="1200" height="160"/>|
+|<img src="https://github.com/user-attachments/assets/bd7faae8-2146-4c53-9f6f-2bf8a64b6bf7" width="1200" />|<img src="https://github.com/user-attachments/assets/e8b22f98-8080-4857-a320-ace732bd9576" width="1200" />|<img src="https://github.com/user-attachments/assets/ec7dde5e-0581-420b-8906-7d83b2da7f22" width="970"/>|<img src="https://github.com/user-attachments/assets/8513b990-1e0e-4d05-aa81-bd3869567d81" width="1200" height="160"/>|

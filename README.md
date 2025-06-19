@@ -9,7 +9,7 @@
   - [사용 기술 스택 및 개발 환경](#사용-기술-스택-및-개발환경)
 
 ## 개요
-- 프로젝트 이름: AI Chatbot 이용한 사용자 맞춤 카드 추천 Service "Cardfit"
+- 프로젝트 이름: AI Chatbot을 이용한 사용자 맞춤 카드 추천 Service "Cardfit"
 - 프로젝트 기간: 2024-11 ~ 2024-12
 - 멤버: Frontend 2명, Backend 2명
 

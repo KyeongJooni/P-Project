@@ -56,7 +56,7 @@ Cardfit은 재무관리 또는 실사용을 위해 카드를 발급하는 소비
 
 |메인 페이지 배너|메인 페이지|
 |---|---|
-|<img src="https://github.com/user-attachments/assets/5b7e7cad-d54d-4b24-8b68-68ee7adbf30b" width="476"/>|![image](https://github.com/user-attachments/assets/c72bbb04-1e53-40d1-8e6a-c57053e5842f)|
+|<img src="https://github.com/user-attachments/assets/5b7e7cad-d54d-4b24-8b68-68ee7adbf30b" width="476"/>|<img src="https://github.com/user-attachments/assets/c72bbb04-1e53-40d1-8e6a-c57053e5842f" width="476">|
 
 |20대 추천 페이지|정부 지원 페이지|
 |---|---|

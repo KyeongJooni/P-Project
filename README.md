@@ -31,7 +31,7 @@ Cardfit은 재무관리 또는 실사용을 위해 카드를 발급하는 소비
   - 챗봇 무한이를 통해 개인 소비와 성향 분석 및 맞춤 카드 추천
 
 ## 사용 기술 스택 및 개발환경
-<div align="center"> 
+<div align="left"> 
   <h3>FE</h3>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black"/>
@@ -46,7 +46,9 @@ Cardfit은 재무관리 또는 실사용을 위해 카드를 발급하는 소비
 </div>
 <br>
 
-- 개발 환경<br>
+### 개발 환경
+
+<br>
 - 언어: JS, SQL, HTML
 - 프론트엔드: ejs, Figma
 - 백엔드: Node/express
